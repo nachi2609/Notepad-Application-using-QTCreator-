@@ -24,4 +24,4 @@ Application supports all the Notepad Featurs such as:\
 $ qmake AppNotepad.pro
 $ make
 ``` 
-# It can be compiled and run with Microsoft Visual Studio C++ Compiler.
+# It can be compiled and run with Microsoft Visual Studio buildmaker where we can create .exe file.
