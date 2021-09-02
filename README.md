@@ -28,4 +28,4 @@ $ make
 ```javascript
 $ ./AppNotepad
 ``` 
-### It can be compiled and run with Microsoft Visual Studio buildmaker where we can create .exe file.
+### It can be also compiled and run with Microsoft Visual Studio buildmaker where we can create .exe file and run it on windows environment.
