@@ -21,7 +21,7 @@ Application supports all the Notepad Featurs such as:
  ```
  2.Go to the folder where .pro file is located.
 ```javascript 
-$ qmake qpadfinal.pro
+$ qmake AppNotepad.pro
 $ make
 ``` 
 It can be compiled and run with Microsoft Visual Studio C++ Compiler.
