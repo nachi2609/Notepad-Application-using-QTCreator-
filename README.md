@@ -23,6 +23,9 @@ Application supports all the Notepad Featurs such as:\
 ```javascript 
 $ qmake AppNotepad.pro
 $ make
+```
+## 3. How to run the code?
+```javascript
 $ ./AppNotepad
 ``` 
 # It can be compiled and run with Microsoft Visual Studio buildmaker where we can create .exe file.
