@@ -13,15 +13,15 @@ Application supports all the Notepad Featurs such as:\
   8.Underlined
  
  Application can be run using Qmake on Ubuntu.\
- #For Ubuntu
+ # For Ubuntu
   
- 1.Install qt5 compiler 
+## 1.Install qt5 compiler 
  ```javascript
  $ sudo apt-get install qt5-default
  ```
- 2.Go to the folder where .pro file is located.
+## 2.Go to the folder where .pro file is located.
 ```javascript 
 $ qmake AppNotepad.pro
 $ make
 ``` 
-It can be compiled and run with Microsoft Visual Studio C++ Compiler.
+# It can be compiled and run with Microsoft Visual Studio C++ Compiler.
